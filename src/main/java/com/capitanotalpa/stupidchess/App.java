@@ -1,4 +1,4 @@
-package com.captainmole.stupidchess;
+package com.capitanotalpa.stupidchess;
 
 /**
  * Hello world!
